@@ -61,5 +61,5 @@ Sinta-se à vontade para contribuir com melhorias, correções ou novas funciona
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar conforme necessário.
 
 ---
-Criado por [Seu Nome]
+Criado por Pedro Humberto Bitencourt Nascimento
 
